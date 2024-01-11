@@ -1,0 +1,7 @@
+{
+  "name": "CRcarpioinsumo3",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
